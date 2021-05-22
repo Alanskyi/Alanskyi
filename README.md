@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alanskyi.
+- 👋 Hi, I’m Alan.
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning web developing.
 - 💞️ I’m looking to collaborate on ...
