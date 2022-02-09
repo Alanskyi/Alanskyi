@@ -30,7 +30,7 @@ My name is Alan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanskyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanskyi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
